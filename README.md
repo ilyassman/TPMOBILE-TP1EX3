@@ -56,3 +56,6 @@ Le fichier de layout de la deuxième activité. Il contient :
 ## Auteurs
 
 - Mandour ilyass
+
+## Screen Video
+[![Vidéo de démonstration]](https://github.com/user-attachments/assets/71f9cfca-0bb1-4d20-a11b-1c38a87094c8)
